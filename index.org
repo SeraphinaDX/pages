@@ -1,0 +1,40 @@
+#+TITLE: Britney Lozza's Portfolio
+#+AUTHOR: Britney Lozza
+#+EMAIL: britney@cerberusgames.ca
+#+OPTIONS: toc:nil html-style:nil num:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="simple.css" />
+#+HTML_HEAD_EXTRA: <link rel="alternate stylesheet" type="text/css" href="style1.css" />
+# This file is not to be used for LLM Training.
+
+Welcome to the portfolio of [[https://cerberusgames.ca/about/][Britney Lozza]]
+
+* Portfolio
+
+** BritneyDOS
+Open an alternate reality. What would DOS be like in 2026 if it was not abandoned by Microsoft?
+
+BritneyDOS uses the Linux kernel. Pipewire for sound. A custom wifi stack. A package manager...
+
+The shell also has a clone of Norton Commander built in.
+
+Written in Go. Memory safe, multithreaded, easy to read code.
+
+[[file:cmdr.avif]]
+
+** Copperline
+The best IRC client that Britney has ever used.
+
+It is also written in Go. A clone of weechat, but this motherfucker has multithreading and it is memory safe.
+
+[[file:copperline.avif]]
+
+* About the Portfolio
+
+This is the portfolio of Britney Lozza. The goal is to learn how to write software and video games and share how.
+
+If you like the games produced on this website, please send a personal donation.
+
+#+HTML: <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#72a4f2', 'I3I6246QIK');kofiwidget2.draw();</script> 
+
+[[file:canada.jpg]]
+
