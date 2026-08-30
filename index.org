@@ -19,12 +19,18 @@ The shell also has a clone of Norton Commander built in.
 
 Written in Go. Memory safe, multithreaded, easy to read code.
 
+[[https://git.cerberusgames.ca/Starstreak/BritneyDOS][View on Git]]
+
 [[file:cmdr.avif]]
 
 ** Copperline
 The best IRC client that Britney has ever used.
 
-It is also written in Go. A clone of weechat, but this motherfucker has multithreading and it is memory safe.
+Mouse support, memory safe, multithreaded and written in Go.
+
+A clone of weechat, but this motherfucker has themes and TOML based configuration.
+
+[[https://git.cerberusgames.ca/Starstreak/Copperline][View on Git]]
 
 [[file:copperline.avif]]
 
