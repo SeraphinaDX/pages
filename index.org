@@ -16,6 +16,8 @@ Welcome to the portfolio of [[https://cerberusgames.ca/about/][Britney Lozza]]
 
 Rosaline is a small, beginner-friendly graphics and GUI library for Go. It is designed for people who know a little Go and want to make a real graphical program without first learning a large framework.
 
+View on [[https://github.com/SeraphinaDX/Rosaline][Github]]
+
 ** BritneyDOS
 Open an alternate reality. What would DOS be like in 2026 if it was not abandoned by Microsoft?
 
