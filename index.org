@@ -27,7 +27,7 @@ The shell also has a clone of Norton Commander built in.
 
 Written in Go. Memory safe, multithreaded, easy to read code.
 
-[[https://git.cerberusgames.ca/Starstreak/BritneyDOS][View on Git]]
+Visit on [[https://github.com/SeraphinaDX/BritneyDOS][Github]]
 
 [[file:cmdr.avif]]
 
@@ -38,9 +38,28 @@ Mouse support, memory safe, multithreaded and written in Go.
 
 A clone of weechat, but this motherfucker has themes and TOML based configuration.
 
-[[https://git.cerberusgames.ca/Starstreak/Copperline][View on Git]]
+Visit on [[https://github.com/SeraphinaDX/Copperline][Github]]
 
 [[file:copperline.avif]]
+
+** Mail Tools
+
+*** MailSalon
+
+MailSalon is a Maildir-based terminal mail client written in Go using gotui v5. It deliberately leaves network transport to external programs. MailSalon reads and modifies local Maildirs, while tools such as mbsync, offlineimap, MailSalonSync, msmtp, or custom wrapper scripts handle receiving and sending.
+
+Visit on [[https://github.com/SeraphinaDX/MailSalon][Github]]
+
+[[file:mailsalon.avif]]
+
+*** MailSalonSync
+
+MailSalonSync is a small, Maildir-first replacement for the common OfflineIMAP workflow, written in Go. It can mirror configured folders from either IMAP or JMAP accounts, propagate deletions in both directions, handle multiple accounts and mailbox-to-directory mappings, and submit raw RFC 5322 messages with JMAP.
+
+While it works, an interactive terminal gets a Charm Bubble Tea/Bubbles spinner with the current account, mailbox, operation, and running add/delete counts. For scripting, Emacs, mu4e, cron-style use, and other non-interactive callers, -plain disables the interactive UI and runs synchronously.
+
+Visit on [[https://github.com/SeraphinaDX/MailSalonSync][Github]]
+
 
 * About the Portfolio
 
